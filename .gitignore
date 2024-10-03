@@ -1,0 +1,4 @@
+*
+!gendraw/
+!*.py
+!.gitignore
