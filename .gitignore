@@ -2,3 +2,4 @@
 !gendraw/
 !*.py
 !.gitignore
+!*.txt
