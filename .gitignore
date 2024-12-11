@@ -1,5 +1,1 @@
-*
-!gendraw/
-!*.py
-!.gitignore
-!*.txt
+.env
