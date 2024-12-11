@@ -1,0 +1,1 @@
+get_response_image(model)
